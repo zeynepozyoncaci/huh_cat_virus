@@ -43,4 +43,4 @@ Background Mode: Open Task Manager (CTRL + SHIFT + ESC) and end the Python proce
 Disclaimer
 This project is for educational and entertainment purposes. It does not modify system files or store user data.
 
-Enjoy :)))
+Enjoy :))
